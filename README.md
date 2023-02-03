@@ -1,4 +1,3 @@
 # repo_with_fake_secret
 
-AWS_SECRET_KEY='12312dfadfsdfsdfds12321321dfadfdasfsdfas'
-AWS_ACCESS_KEY='132132132142dfadsfsdfdsfasdfdafsdfdsfads'
+updating the accidental exposure of fake access keys, but not squashing the commit history. this is a test to see if gitleaks picks up the secrets from the commit log.
