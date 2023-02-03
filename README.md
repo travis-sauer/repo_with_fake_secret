@@ -1,1 +1,4 @@
 # repo_with_fake_secret
+
+AWS_SECRET_KEY='12312dfadfsdfsdfds12321321dfadfdasfsdfas'
+AWS_ACCESS_KEY='132132132142dfadsfsdfdsfasdfdafsdfdsfads'
